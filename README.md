@@ -1,7 +1,7 @@
-<header align="center">  
+<p align="center">  
     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?  url=https%3A%2F%2Fgithub.com%2Fgup97&count_bg=%23EAFF0B&title_bg=%23555555&icon=&icon_color=%23F0F0F0&title=visted&edge_flat=true)](https://hits.seeyoufarm.com)
-</header>
-<h1 align="center">� Stack </h1>
+</p>
+<h1 align="center">Stack </h1>
 
 <h3 align="center">Language</h3>
 
