@@ -1,5 +1,5 @@
 <p align="center">
-<img src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgup97&count_bg=%23EAFF0B&title_bg=%23555555&icon=&icon_color=%23F0F0F0&title=visted&edge_flat=true)](https://hits.seeyoufarm.com"/
+<img src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgup97&count_bg=%23F0EC00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFB00&title=visted&edge_flat=true)](https://hits.seeyoufarm.com"/>
 </p>
 
 <h1 align="center">Stack </h1>
