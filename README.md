@@ -1,18 +1,11 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello&height=150&fontSize=60&desc=I`m%20Gun%20Hyung&descAlignY=75&descAlign=60)
+![code](https://user-images.githubusercontent.com/80537765/175788239-f84f9874-4abf-4eac-9a3b-ee1de73f10f4.png)
 
-<p align="center">
-<img src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgup97&count_bg=%23F0EC00&title_bg=%23555555&icon=github.svg&icon_color=%23FFFB00&title=visted&edge_flat=true)](https://hits.seeyoufarm.com"/>
-</p>
-
-<h1 align="center">Stack </h1>
-
-<h3 align="center">Language</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f" height="24" />&nbsp
 </p>
 
-<h3 align="center">Front-End</h3>
+<h3 align="center">기본부터 다시 공부하고 있습니다.</h3>
 
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/HTML5-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
