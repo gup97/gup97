@@ -7,6 +7,14 @@
 
 <h3 align="center">기본부터 다시 공부하고 있습니다.</h3>
 
+<h4 align="center">공부 목록</h4>
+<ul>
+  매일 / 프로그래머스 1문제
+  ~ 7월 2일 / 프로그래머스 고득점 kit (예정)
+  7월 3일 ~ / next.js /react 튜토리얼 (예정) 
+</uL>
+
+
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/HTML5-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
