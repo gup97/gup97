@@ -1,5 +1,7 @@
-![code](https://user-images.githubusercontent.com/80537765/175788239-f84f9874-4abf-4eac-9a3b-ee1de73f10f4.png)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gup97&theme=onedark&show_icons=true)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=gup97)](https://solved.ac/gup97)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f" height="24" />&nbsp
