@@ -8,14 +8,14 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gup97&theme=onedark&show_icons=true&hide_border=true" height=200px />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gup97&theme=onedark&show_icons=true&hide_border=true" height=160px />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gup97&theme=onedark&layout=compact&hide_border=true" height=200px />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gup97&theme=onedark&layout=compact&hide_border=true" height=160px />
 </a>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=gup97)](https://solved.ac/gup97)
+<a href="https://solved.ac/gup97">
+  <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=gup97" height=160px />
+</a>
 
 
 
