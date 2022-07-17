@@ -1,5 +1,8 @@
 # 🐧gup97 - Profile
 
+![code](https://user-images.githubusercontent.com/80537765/179422836-15604b32-8f07-4435-8c80-5ddbfa4b244e.png)
+
+
 ## 💼Technologies
 
 <img src="https://img.shields.io/badge/Javascript-323330?style=flat-square&logo=JavaScript&logoColor=f0db4f" height="24" /> 
