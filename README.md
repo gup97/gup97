@@ -6,8 +6,13 @@
 
 ## 💬Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gup97&theme=onedark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gup97&theme=onedark&&layout=compact)](https://github.com/gup97/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gup97&theme=onedark&show_icons=true&hide_border=true" height=200px />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gup97&theme=onedark&layout=compact&hide_border=true" height=200px />
+</a>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gup97)](https://solved.ac/gup97)
