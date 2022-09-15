@@ -24,8 +24,8 @@
 
 
 <p align="center">
-<!--   <img src="https://img.shields.io/badge/HTML5-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
+   <img src="https://img.shields.io/badge/HTML5-f06529?style=flat-square&logo=HTML5&logoColor=ebebeb" height="24" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=ebebeb" height="24" />&nbsp
-  <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" />&nbsp -->
+  <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=ebebeb" height="24" />&nbsp 
 </p>
 
