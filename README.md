@@ -1,6 +1,7 @@
 # 🐧gup97 - Profile
 
-![code](https://user-images.githubusercontent.com/80537765/179422836-15604b32-8f07-4435-8c80-5ddbfa4b244e.png)
+
+![code](https://user-images.githubusercontent.com/80537765/205413312-75e36984-6f10-4063-9cfd-36871363a273.png)
 
 
 ## 💼Technologies
